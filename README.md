@@ -1,6 +1,6 @@
 # wordtranslator
 
-> Simple translator application
+> Simple translator application built by Vuejs and Yandex translator API
 
 ## Build Setup
 
