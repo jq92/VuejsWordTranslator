@@ -2,6 +2,8 @@
 
 > Simple translator application built by Vuejs and Yandex translator API
 
+credie to travesymedia
+
 ## Build Setup
 
 ``` bash
